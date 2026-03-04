@@ -1,0 +1,296 @@
+{
+  "version": 1,
+  "base_track": "Beyond Me",
+  "base_artist": "TobyMac",
+  "createdAt": "2026-03-04T14:18:16.112409Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Beyond Me",
+      "artist": "After Forever",
+      "has_synced": true,
+      "path": "select/01_Beyond_Me_After_Forever.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Beyond Me",
+      "artist": "After Forever with Sharon den Adel",
+      "has_synced": true,
+      "path": "select/02_Beyond_Me_After_Forever_with_Sharon_den_Adel.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Beyond Me (With Sharon Den Adel)",
+      "artist": "After Forever",
+      "has_synced": true,
+      "path": "select/03_Beyond_Me_(With_Sharon_Den_Adel)_After_Forever.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Beyond Me",
+      "artist": "Demon Hunter",
+      "has_synced": false,
+      "path": "select/04_Beyond_Me_Demon_Hunter.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Beyond Me",
+      "artist": "Foo Fighters",
+      "has_synced": false,
+      "path": "select/05_Beyond_Me_Foo_Fighters.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Beyond Me",
+      "artist": "TobyMac",
+      "has_synced": true,
+      "path": "select/06_Beyond_Me_TobyMac.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Beyond Me (Remaster)",
+      "artist": "After Forever feat. Sharon Den Adel",
+      "has_synced": false,
+      "path": "select/07_Beyond_Me_(Remaster)_After_Forever_feat._Sharon_Den_Adel.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Beyond Me (Phenomenon remix by Soul Glow Activatur)",
+      "artist": "tobyMac",
+      "has_synced": true,
+      "path": "select/08_Beyond_Me_(Phenomenon_remix_by_Soul_Glow_Activatur)_tobyMac.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Beyond Me",
+      "artist": "After Forever & Sharon den Adel",
+      "has_synced": true,
+      "path": "select/09_Beyond_Me_After_Forever_&_Sharon_den_Adel.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Beyond Me",
+      "artist": "Yadah",
+      "has_synced": true,
+      "path": "select/10_Beyond_Me_Yadah.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Beyond Me - Phenomenon Remix By Soul Glow Activatur",
+      "artist": "TobyMac feat. Solomon Olds",
+      "has_synced": false,
+      "path": "select/11_Beyond_Me_-_Phenomenon_Remix_By_Soul_Glow_Activatur_TobyMac_feat._Solomon_Olds.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "So Beyond Me",
+      "artist": "Sloan",
+      "has_synced": false,
+      "path": "select/12_So_Beyond_Me_Sloan.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Beyond Me - Live",
+      "artist": "TobyMac",
+      "has_synced": true,
+      "path": "select/13_Beyond_Me_-_Live_TobyMac.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Beyond Me (feat. Sharon)",
+      "artist": "After Forever",
+      "has_synced": false,
+      "path": "select/14_Beyond_Me_(feat._Sharon)_After_Forever.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Beyond Me",
+      "artist": "TobyMac",
+      "has_synced": false,
+      "path": "select/15_Beyond_Me_TobyMac.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Beyond Me",
+      "artist": "Yadah",
+      "has_synced": false,
+      "path": "select/16_Beyond_Me_Yadah.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Beyond Me [feat. Sharon Den Adel]",
+      "artist": "After Forever",
+      "has_synced": false,
+      "path": "select/17_Beyond_Me_[feat._Sharon_Den_Adel]_After_Forever.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Lend Me Your Voice",
+      "artist": "Belle",
+      "has_synced": true,
+      "path": "select/18_Lend_Me_Your_Voice_Belle.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Look What You Made Me Do",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/19_Look_What_You_Made_Me_Do_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "My Mother Told Me (In Old Norse)",
+      "artist": "Colm R. McGuinness",
+      "has_synced": true,
+      "path": "select/20_My_Mother_Told_Me_(In_Old_Norse)_Colm_R._McGuinness.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Pay Me My Money Down",
+      "artist": "The Longest Johns",
+      "has_synced": true,
+      "path": "select/21_Pay_Me_My_Money_Down_The_Longest_Johns.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Beers On Me",
+      "artist": "Dierks Bentley feat. BRELAND & HARDY",
+      "has_synced": true,
+      "path": "select/22_Beers_On_Me_Dierks_Bentley_feat._BRELAND_&_HARDY.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Beers On Me",
+      "artist": "Dierks Bentley",
+      "has_synced": true,
+      "path": "select/23_Beers_On_Me_Dierks_Bentley.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "Break On Me",
+      "artist": "Keith Urban",
+      "has_synced": true,
+      "path": "select/24_Break_On_Me_Keith_Urban.lrc"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "Can't Do Without Me",
+      "artist": "Chayce Beckham",
+      "has_synced": true,
+      "path": "select/25_Can't_Do_Without_Me_Chayce_Beckham.lrc"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "Can't Do Without Me",
+      "artist": "Chayce Beckham",
+      "has_synced": true,
+      "path": "select/26_Can't_Do_Without_Me_Chayce_Beckham.lrc"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "Can't Reign On Me",
+      "artist": "Laurel Sabadosh",
+      "has_synced": true,
+      "path": "select/27_Can't_Reign_On_Me_Laurel_Sabadosh.lrc"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "Chasing Me",
+      "artist": "Patrick Carpenter",
+      "has_synced": true,
+      "path": "select/28_Chasing_Me_Patrick_Carpenter.lrc"
+    },
+    {
+      "id": "lrclib_29",
+      "source": "lrclib",
+      "title": "Close to Me",
+      "artist": "The Cure",
+      "has_synced": true,
+      "path": "select/29_Close_to_Me_The_Cure.lrc"
+    },
+    {
+      "id": "lrclib_30",
+      "source": "lrclib",
+      "title": "Country Girl (Shake It For Me)",
+      "artist": "Luke Bryan",
+      "has_synced": true,
+      "path": "select/30_Country_Girl_(Shake_It_For_Me)_Luke_Bryan.lrc"
+    },
+    {
+      "id": "lrclib_31",
+      "source": "lrclib",
+      "title": "Cover Me In Sunshine",
+      "artist": "P!nk feat. Willow Sage Hart",
+      "has_synced": true,
+      "path": "select/31_Cover_Me_In_Sunshine_P!nk_feat._Willow_Sage_Hart.lrc"
+    },
+    {
+      "id": "lrclib_32",
+      "source": "lrclib",
+      "title": "Don't Ask Me How I Know",
+      "artist": "Bobby Pinson",
+      "has_synced": true,
+      "path": "select/32_Don't_Ask_Me_How_I_Know_Bobby_Pinson.lrc"
+    },
+    {
+      "id": "lrclib_33",
+      "source": "lrclib",
+      "title": "Don't Stand So Close To Me",
+      "artist": "The Police",
+      "has_synced": true,
+      "path": "select/33_Don't_Stand_So_Close_To_Me_The_Police.lrc"
+    },
+    {
+      "id": "lrclib_34",
+      "source": "lrclib",
+      "title": "Don't You (Forget About Me)",
+      "artist": "Simple Minds",
+      "has_synced": true,
+      "path": "select/34_Don't_You_(Forget_About_Me)_Simple_Minds.lrc"
+    },
+    {
+      "id": "lrclib_35",
+      "source": "lrclib",
+      "title": "Easy On Me",
+      "artist": "Adele",
+      "has_synced": true,
+      "path": "select/35_Easy_On_Me_Adele.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Me Without You",
+      "artist": "TobyMac",
+      "has_synced": false,
+      "path": "select/pl_01_Me_Without_You_TobyMac.txt"
+    }
+  ]
+}
